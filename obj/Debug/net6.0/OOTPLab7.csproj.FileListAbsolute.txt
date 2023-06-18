@@ -1,0 +1,15 @@
+C:\Users\Argiziont\Desktop\OOTPLab7\bin\Debug\net6.0\OOTPLab7.exe
+C:\Users\Argiziont\Desktop\OOTPLab7\bin\Debug\net6.0\OOTPLab7.deps.json
+C:\Users\Argiziont\Desktop\OOTPLab7\bin\Debug\net6.0\OOTPLab7.runtimeconfig.json
+C:\Users\Argiziont\Desktop\OOTPLab7\bin\Debug\net6.0\OOTPLab7.dll
+C:\Users\Argiziont\Desktop\OOTPLab7\bin\Debug\net6.0\OOTPLab7.pdb
+C:\Users\Argiziont\Desktop\OOTPLab7\obj\Debug\net6.0\OOTPLab7.csproj.AssemblyReference.cache
+C:\Users\Argiziont\Desktop\OOTPLab7\obj\Debug\net6.0\OOTPLab7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Argiziont\Desktop\OOTPLab7\obj\Debug\net6.0\OOTPLab7.AssemblyInfoInputs.cache
+C:\Users\Argiziont\Desktop\OOTPLab7\obj\Debug\net6.0\OOTPLab7.AssemblyInfo.cs
+C:\Users\Argiziont\Desktop\OOTPLab7\obj\Debug\net6.0\OOTPLab7.csproj.CoreCompileInputs.cache
+C:\Users\Argiziont\Desktop\OOTPLab7\obj\Debug\net6.0\OOTPLab7.dll
+C:\Users\Argiziont\Desktop\OOTPLab7\obj\Debug\net6.0\refint\OOTPLab7.dll
+C:\Users\Argiziont\Desktop\OOTPLab7\obj\Debug\net6.0\OOTPLab7.pdb
+C:\Users\Argiziont\Desktop\OOTPLab7\obj\Debug\net6.0\OOTPLab7.genruntimeconfig.cache
+C:\Users\Argiziont\Desktop\OOTPLab7\obj\Debug\net6.0\ref\OOTPLab7.dll
